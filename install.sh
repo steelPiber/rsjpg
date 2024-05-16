@@ -23,4 +23,4 @@ cp target/release/rsjpg /usr/local/bin/
 
 echo "Installation complete."
 
-rm -rf "$REPO_URL"
+rm -rf ../"$REPO_DIR"
