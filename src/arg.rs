@@ -1,8 +1,8 @@
 use clap::{Arg, Command};
 
 pub fn command_list() -> Command {
-    Command::new("Image Combiner")
-        .version("0.1")
+    Command::new("Image Combiner | 이미지 합치기 ")
+        .version("0.0.2")
         .author("pibre[pyh5523@gmail.com]")
         .about("Combines multiple images into a single image | 여러 이미지를 하나의 이미지로 결합")
         .arg(
