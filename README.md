@@ -18,6 +18,9 @@ cd rsjpg/target/release
 cd rsjpg
 ./install.sh
 ```
+```sh
+wget -qO- https://github.com/steelPiber/rsjpg/raw/main/install.sh | bash
+```
 ## help | 사용법
   * -n, --name <OUTPUT>: 출력 파일의 이름을 지정합니다.
   * -m, --mode <MODE>: 이미지를 가로(w) 또는 세로(h)로 결합합니다. 가능한 값: w, h.
