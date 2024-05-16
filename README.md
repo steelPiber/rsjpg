@@ -18,8 +18,13 @@ cd rsjpg/target/release
 cd rsjpg
 ./install.sh
 ```
+### install wget
 ```sh
-wget -qO- https://github.com/steelPiber/rsjpg/raw/main/install.sh | bash
+wget -qO- https://github.com/steelPiber/rsjpg/raw/main/install.sh | bash -s install
+```
+### uninstall wget
+```sh
+wget -qO- https://github.com/steelPiber/rsjpg/raw/main/install.sh | bash -s uninstall
 ```
 ## help | 사용법
   * -n, --name <OUTPUT>: 출력 파일의 이름을 지정합니다.
