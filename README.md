@@ -1,6 +1,6 @@
 # rsjpg
-`rsjpg`는 여러 이미지를 하나의 이미지로 결합하는 Rust로 작성된 명령줄 도구입니다.
-`rsjpg` is a command-line tool written in Rust that combines multiple images into one image.
+* `rsjpg`는 여러 이미지를 하나의 이미지로 결합하는 Rust로 작성된 명령줄 도구입니다.
+* `rsjpg` is a command-line tool written in Rust that combines multiple images into one image.
 ## install  | 설치 
 
 ```sh
