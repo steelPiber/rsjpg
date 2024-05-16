@@ -16,3 +16,5 @@ class Rsjpg < Formula
     system "#{bin}/rsjpg", "--version"
   end
 end
+## curl -L -o v0.0.2.tar.gz https://github.com/steelPiber/rsjpg/archive/refs/tags/v0.0.2.tar.gz
+##shasum -a 256 v0.0.2.tar.gz
