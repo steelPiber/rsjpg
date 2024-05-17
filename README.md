@@ -33,5 +33,10 @@ wget -qO- https://github.com/steelPiber/rsjpg/raw/main/install.sh | bash -s unin
   * -V, --version: 버전 정보를 출력합니다.
 
 
+## help | How to use
+   * -n, --name <OUTPUT>: Specifies the name of the output file.
+   * -m, --mode <MODE>: Combine images horizontally (w) or vertically (h). Possible values: w, h.
+   * -h, --help: Print help messages.
+   * -V, --version: Print version information.
+
 ![화면-기록-2024-05-17-오후-3 02 58](https://github.com/steelPiber/rsjpg/assets/43775386/0f7f7306-4e20-496b-9060-5f1634c52c62)
-![Uploading 화면-기록-2024-05-17-오후-3.02.58.gif…]()
