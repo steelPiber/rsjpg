@@ -31,3 +31,4 @@ wget -qO- https://github.com/steelPiber/rsjpg/raw/main/install.sh | bash -s unin
   * -m, --mode <MODE>: 이미지를 가로(w) 또는 세로(h)로 결합합니다. 가능한 값: w, h.
   * -h, --help: 도움말 메시지를 출력합니다.
   * -V, --version: 버전 정보를 출력합니다.
+![Uploading 화면-기록-2024-05-17-오후-3.02.58.gif…]()
