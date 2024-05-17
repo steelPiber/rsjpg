@@ -40,3 +40,6 @@ wget -qO- https://github.com/steelPiber/rsjpg/raw/main/install.sh | bash -s unin
    * -V, --version: Print version information.
 
 ![화면-기록-2024-05-17-오후-3 02 58](https://github.com/steelPiber/rsjpg/assets/43775386/0f7f7306-4e20-496b-9060-5f1634c52c62)
+
+![result](https://github.com/steelPiber/rsjpg/assets/43775386/aad6c2f7-feb9-49a1-8820-7766cd1dae1b)
+
